@@ -8,7 +8,7 @@ ol, ul { list-style: none; }
 
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   line-height: 120%;
   font-size: 16px;
   text-align: center;
@@ -21,7 +21,7 @@ a {
 }
 
 div.main {
-  width: 720px;
+  width: 800px;
   text-align: left;
   margin: 0 auto;
   background: #eee;
@@ -30,22 +30,29 @@ div.main {
 div.hero {
   text-indent: -10000px;
   color: #ffa;
-  background: #000 url(../img/logo.png) 50% 50% no-repeat;
+  background: #000 url(https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1379358_590736164318474_384484466_n.jpg) 50% 50% no-repeat;
   height: 200px;
 }
 
 div.hero h1 {
-  font-family: Georgia;
+  font-family: 'Alegreya Sans', sans-serif;
   font-weight: bold;
   font-size: 32px;
   line-height: 200px;
 }
 
 h2 {
-  font-family: Georgia;
+  font-family: 'Alegreya Sans', sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 32px;
+}
+
+h4 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 120%;
 }
 
 section {
